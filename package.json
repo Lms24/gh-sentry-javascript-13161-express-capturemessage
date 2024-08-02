@@ -1,0 +1,16 @@
+{
+  "name": "gh-sentry-javascript-13161-express-capturemessage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sentry/node": "^8.22.0",
+    "@sentry/profiling-node": "^8.22.0",
+    "express": "^4.19.2"
+  }
+}
